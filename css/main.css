@@ -13,11 +13,23 @@ footer{
     background: #FFF6D8;
 }
 
+.titles{
+    font-size: 2.5rem;
+    padding-left: 4rem;
+    border-bottom: solid 4px #FFF6D8 ;
+    width: 25rem;
+    border-spacing: 10px;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    box-shadow: #FDEFA9;
+}
+
 
 /*Event packages*/
+
 .pack{
-    padding-left: 5rem;
-    padding-right: 5rem;
+    margin-left: 4rem;
+    box-shadow: black;
 }
 
 /*Vendor cards*/
