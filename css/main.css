@@ -13,6 +13,7 @@ footer{
     background: #FFF6D8;
 }
 
+<<<<<<< HEAD
 .titles{
     font-size: 2.5rem;
     padding-left: 4rem;
@@ -30,6 +31,13 @@ footer{
 .pack{
     margin-left: 4rem;
     box-shadow: black;
+=======
+
+/*Event packages*/
+.pack{
+    padding-left: 5rem;
+    padding-right: 5rem;
+>>>>>>> a8f7dc92bbbb6356df1a45f7cdf581f2ae0ae5a4
 }
 
 /*Vendor cards*/
