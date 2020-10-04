@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-=======
-// $(document).ready(function(){
-//     $('.slick-carousel').slick({
-//         infinite: true,
-//         slidesToShow: 3, // Shows a three slides at a time
-//         slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
-//         arrows: true, // Adds arrows to sides of slider
-//         dots: true // Adds the dots on the bottom
-//     });
-// });
->>>>>>> a8f7dc92bbbb6356df1a45f7cdf581f2ae0ae5a4
-
 new Glider(document.querySelector('.glider'),{
     slidesToShow: 3,
     slidesToScroll:2,
@@ -20,13 +7,12 @@ new Glider(document.querySelector('.glider'),{
         prev: '.glider-prev',
         next: '.glider-next'
     },
-<<<<<<< HEAD
     responsive: [
         {
             breakpoint: 300,
             settings: {
                 slidesToShow: 1,
-                slidesToScroll: 1,
+                slidesToScroll: 1,                
             },
         },
         {
@@ -37,9 +23,6 @@ new Glider(document.querySelector('.glider'),{
             },
         },
     ],
-=======
-
->>>>>>> a8f7dc92bbbb6356df1a45f7cdf581f2ae0ae5a4
 })
 
 // window.addEventListener('scroll', function (e) {
