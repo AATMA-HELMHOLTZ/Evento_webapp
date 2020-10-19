@@ -1,7 +1,11 @@
+body{
+    font-family: 'Josefin Sans', cursive;
+}
+
 header{
-    background: url("evento2.jpeg") fixed  center no-repeat ;
+    background: url("pexels-cottonbro-3171837.jpg") fixed  center no-repeat ;
     background-size: cover;
-    height: 60vh;
+    height: 90vh;
 
     display: flex;
     align-items: center;
@@ -13,7 +17,6 @@ footer{
     background: #FFF6D8;
 }
 
-<<<<<<< HEAD
 .titles{
     font-size: 2.5rem;
     padding-left: 4rem;
@@ -28,16 +31,16 @@ footer{
 
 /*Event packages*/
 
-.pack{
+.pack {
     margin-left: 4rem;
     box-shadow: black;
-=======
+}
+
 
 /*Event packages*/
 .pack{
     padding-left: 5rem;
     padding-right: 5rem;
->>>>>>> a8f7dc92bbbb6356df1a45f7cdf581f2ae0ae5a4
 }
 
 /*Vendor cards*/
