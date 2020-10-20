@@ -53,7 +53,7 @@ footer{
 /*Search bar*/
 
 .form-control::placeholder {
-    font-size: 0.882rem;
+    font-size: 1rem;
     color: #aaa;
     font-style: italic;
 }
