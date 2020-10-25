@@ -14,13 +14,13 @@ header{
 }
 
 footer{
-    background: #FFF6D8;
+    background: #66bfbf;
 }
 
 .titles{
     font-size: 2.5rem;
     padding-left: 4rem;
-    border-bottom: solid 4px #FFF6D8 ;
+    border-bottom: solid 4px #66bfbf ;
     width: 25rem;
     border-spacing: 10px;
     margin-bottom: 3rem;
@@ -51,6 +51,8 @@ footer{
 }
 
 /*Search bar*/
+
+
 
 .form-control::placeholder {
     font-size: 1rem;
