@@ -10,9 +10,11 @@
 
     <!--Font awesome-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
 
     <!--GLIDER CSS-->
     <link rel="stylesheet" type="text/css" href="css/glider.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
@@ -60,7 +62,7 @@
             <div class="input-group input-group-lg mb-100">
                     <input type="search" placeholder="Vendors, Venues and more" aria-describedby="button-addon5" class="form-control">
                 <div class="input-group-append" >
-                    <button id="button-addon5" type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                    <button  type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
                 </div>
             </div>
         </form>
@@ -68,69 +70,90 @@
 <!--    End of text in container-->
 
 <!--Cards Carousel - Event pack-->
-    <div class="glider-contain multiple">
+    <div class="swiper-container">
         <h3 class="titles">Event Packages</h3>
-        <button class="glider-prev" style="padding-left: 2rem">
-            <i class="fa fa-chevron-left" ></i>
-        </button>
-
-        <div class="glider">
-            <a href="#"  class="pack">
-                <div class="card" style="width: 23rem;">
-                    <img src="assets/pexels-photo-3171770.jpeg" class="card-img-top" alt="..."  style="height: 30.55rem">
-                    <div class="card-body">
-                        <h4 class="card-title" style="color: black">Farewell Celebration</h4>
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <a href="#"  class="pack">
+                    <div class="card" style="width: 23rem;">
+                        <img src="assets/pexels-photo-3171770.jpeg" class="card-img-top" alt="..."  style="height: 30.55rem">
+                        <div class="card-body">
+                            <h4 class="card-title" style="color: black">Farewell Celebration</h4>
+                        </div>
                     </div>
-                </div>
-            </a>
-
-
-            <a href="#"  class="pack">
-                <div class="card" style="width: 23rem;">
-                    <img src="assets/pexels-melissa-698907.jpg" class="card-img-top" alt="..." >
-                    <div class="card-body">
-                        <h4 class="card-title" style="color: black">Birthday Party</h4>
+                </a>
+            </div>
+            <div class="swiper-slide">
+                <a href="#"  class="pack">
+                    <div class="card" style="width: 23rem;">
+                        <img src="assets/pexels-melissa-698907.jpg" class="card-img-top" alt="..." >
+                        <div class="card-body">
+                            <h4 class="card-title" style="color: black">Birthday Party</h4>
+                        </div>
                     </div>
-                </div>
-            </a>
-
-
-            <a href="#"  class="pack">
-                <div class="card" style="width: 23rem;">
-                    <img src="assets/ted.jpg" class="card-img-top" alt="..." style="height: 30.55rem">
-                    <div class="card-body">
-                        <h4 class="card-title" style="color: black">TedX event</h4>
+                </a>
+            </div>
+            <div class="swiper-slide">
+                <a href="#"  class="pack">
+                    <div class="card" style="width: 23rem;">
+                        <img src="assets/ted.jpg" class="card-img-top" alt="..." style="height: 30.55rem">
+                        <div class="card-body">
+                            <h4 class="card-title" style="color: black">TedX event</h4>
+                        </div>
                     </div>
-                </div>
-            </a>
-
-
-            <a href="#"  class="pack">
-                <div class="card" style="width: 23rem;">
-                    <img src="assets/pexels-photo-1317374.jpeg" class="card-img-top" alt="..."  style="height: 30.55rem">
-                    <div class="card-body">
-                        <h4 class="card-title" style="color: black">Festive celebration</h4>
+                </a>
+            </div>
+            <div class="swiper-slide">
+                <a href="#"  class="pack">
+                    <div class="card" style="width: 23rem;">
+                        <img src="assets/pexels-photo-1317374.jpeg" class="card-img-top" alt="..."  style="height: 30.55rem">
+                        <div class="card-body">
+                            <h4 class="card-title" style="color: black">Festive celebration</h4>
+                        </div>
                     </div>
-                </div>
-            </a>
-
-            <a href="#"  class="pack">
-                <div class="card" style="width: 23rem;">
-                    <img src="assets/Anniversary.jpg" class="card-img-top" alt="..."  style="height: 30.55rem">
-                    <div class="card-body">
-                        <h4 class="card-title" style="color: black">Anniversary celebration</h4>
+                </a>
+            </div>
+            <div class="swiper-slide">
+                <a href="#"  class="pack">
+                    <div class="card" style="width: 23rem;">
+                        <img src="assets/Anniversary.jpg" class="card-img-top" alt="..."  style="height: 30.55rem">
+                        <div class="card-body">
+                            <h4 class="card-title" style="color: black">Anniversary celebration</h4>
+                        </div>
                     </div>
-                </div>
-            </a>
+                </a>
+            </div>
+            <div class="swiper-slide">
+                <a href="#"  class="pack">
+                    <div class="card" style="width: 23rem;">
+                        <img src="https://images.pexels.com/photos/4684169/pexels-photo-4684169.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" class="card-img-top" alt="..."  style="height: 30.55rem">
+                        <div class="card-body">
+                            <h4 class="card-title" style="color: black">Custom event</h4>
+                        </div>
+                    </div>
+                </a>
+            </div>
 
         </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination" style="padding-top: 100vh"></div>
+        <!-- Add Arrows -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
 
-        <div class="glider-dots" id = "dots"></div>
 
-        <button class="glider-next" style="padding-right: 2rem">
-            <i class="fa fa-chevron-right" ></i>
-        </button>
 
+    <!--    Download the app-->
+    <div class="container">
+        <div class="download_app">
+            <h3>Download our mobile app</h3>
+            <p>Get the power to plan and manage events one tap away in your hand.</p>
+            <p>Have an event to plan and don't know where to start or where to go. Or are tired by bouncing from one store to another and taking reviews about a vendor just from the word of mouth. Worry no more, evento gives you the power to choose vendors within your budget with the help of verified customer reviews, right from your phone!</p>
+
+            <button class="btn btn-primary"><i class="fa fa-android"></i></button>
+            <button class="btn btn-primary"><i class="fa fa-apple"></i></button>
+        </div>
     </div>
 
 <!-- vendor cards-->
@@ -294,6 +317,7 @@
 
 
     <!-- Glider JS  -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
     <script src="js/glider.min.js"></script>
     <!-- Optional JavaScript -->
     <script type="text/javascript" src="js/main.js"></script>
