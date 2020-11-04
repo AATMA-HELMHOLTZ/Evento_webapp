@@ -44,8 +44,8 @@ header{
 /*Search bar*/
 
 .form-control::placeholder {
-    font-size: 1rem;
-    color: #aaa;
+        font-size: 1rem;
+        color: #aaa;
     font-style: italic;
 }
 

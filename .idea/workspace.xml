@@ -16,13 +16,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13085997-0a06-4e81-8965-2038b8cc283c" name="Default Changelist" comment="Glider responsive 2">
-      <change afterPath="$PROJECT_DIR$/assets/Screenshot (77).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile_vendor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -78,7 +77,7 @@
       <recent name="D:\webapp_evento\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.profile.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webapp_evento/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -96,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.profile.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.signup.html" />
-        <item itemvalue="JavaScript Debug.profile.html" />
         <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.test.html" />
       </list>
@@ -126,7 +125,8 @@
       <workItem from="1603041500801" duration="47600000" />
       <workItem from="1603636513347" duration="5762000" />
       <workItem from="1603861051003" duration="12887000" />
-      <workItem from="1604131871548" duration="12378000" />
+      <workItem from="1604131871548" duration="14031000" />
+      <workItem from="1604377961649" duration="14322000" />
     </task>
     <task id="LOCAL-00001" summary="responsive carousel">
       <created>1601793452197</created>
@@ -278,9 +278,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="362" y="35" width="1170" height="809" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601802700290" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1603112585625">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604479182661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603112585625" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604479182661" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604475675919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604475675919" />
   </component>
 </project>
