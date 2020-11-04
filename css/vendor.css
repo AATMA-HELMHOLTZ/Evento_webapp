@@ -54,6 +54,7 @@ form{
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: yellow;
+    border: yellow;
 }
 
 

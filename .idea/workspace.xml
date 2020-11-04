@@ -16,12 +16,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13085997-0a06-4e81-8965-2038b8cc283c" name="Default Changelist" comment="Glider responsive 2">
-      <change afterPath="$PROJECT_DIR$/css/vendor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile_vendor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/register_vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/profile_vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/register_vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register_vendor.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vendor.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/vendor.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/profile_vendor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile_vendor.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile_vendor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +39,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -126,7 +134,7 @@
       <workItem from="1603636513347" duration="5762000" />
       <workItem from="1603861051003" duration="12887000" />
       <workItem from="1604131871548" duration="14031000" />
-      <workItem from="1604377961649" duration="14322000" />
+      <workItem from="1604377961649" duration="24924000" />
     </task>
     <task id="LOCAL-00001" summary="responsive carousel">
       <created>1601793452197</created>
@@ -182,6 +190,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="519" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601764036006" />
+    <state x="513" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604489908220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604489908220" />
     <state x="448" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603040672052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
