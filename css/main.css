@@ -102,7 +102,13 @@ footer{
     padding-bottom: 3vh;
 }
 .container{
-    background: #FFFEE5;
+    background: #fffee5;
     margin-bottom: 6vh;
 }
+
+a.btn.btn-primary
+{
+    background-color:  rgb(102,191,191); border-color:rgb(102,191,191);
+}
+
 

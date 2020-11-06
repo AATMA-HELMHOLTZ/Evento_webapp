@@ -23,7 +23,7 @@
 <body>
 <!--NAVBAR-->
 <nav class="navbar navbar-expand-md bg-light navbar-light sticky-top scrolling-navbar ">
-    <a class="navbar-brand" href="#">EVENTO</a>
+    <a class="navbar-brand" href="index.html">EVENTO</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navb" aria-expanded="true">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -33,7 +33,7 @@
                 <a class="nav-link" href="#">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Register as vendor</a>
+                <a class="nav-link" href="register_vendor.html">Register as vendor</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Contact us</a>
@@ -52,11 +52,89 @@
 </nav>
 <!--END OF NAVBAR-->
 
+<div class="container" id="product-section" >
+    <div class="row">
+        <div class="col-md-6" >
+            <div class="swiper-container" >
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide"><img src="assets/photographer%20(1).jpeg" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/photographer(2).jpeg" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/photographer(3).jpeg" alt=""></div>
+                </div>
+                <!-- Add Pagination -->
+                <div class="swiper-pagination" ></div>
+                <!-- Add Arrows -->
+                <div class="swiper-button-next" style="color: #66bfbf;"></div>
+                <div class="swiper-button-prev" style="color: #66bfbf;"></div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 style="border: solid 2px #eee; padding-left: 1rem;">Tasveer Photographer</h1>
+                </div>
+                <div class="col-md-12" style="padding-top: 0.4rem;">
+                    <button type="button" class="btn btn-outline-warning" disabled>4.1 <i class="fa fa-star"></i></button>
+                </div>
+                <div class="col-md-12" style="padding-top: 1.5rem">
+                    <h3>About us : </h3>
+                    <p class="description">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur erat lorem, sagittis et tellus vel, sagittis luctus sem. Ut nisi leo, accumsan ut facilisis non, rutrum ut ante. Vivamus bibendum, lorem sed faucibus luctus, est eros consequat urna, sollicitudin pellentesque mi arcu at enim. Etiam pretium urna vitae leo finibus ornare a in urna. Nam bibendum ligula sit amet erat hendrerit lobortis. Fusce nec aliquam ligula. Integer purus nisl, vestibulum egestas suscipit in, luctus eu sem. Nunc a sapien tempus, finibus nulla in, ultricies massa.
+                    </p>
+                </div>
+                <div class="col-md-12">
+                    <h4>Price: 25000 <i class="fa fa-inr"> /-</i> day</h4>
+                </div>
+            </div>
+        </div>
+    </div><!-- end row -->
+</div><!-- end container -->
+
+<!-- Nav tabs -->
+<ul class="nav nav-tabs" >
+    <li class="nav-item"  style="margin-left: 1rem">
+        <a  class="nav-link" href="#reviews"
+           data-toggle="tab">Customer reviews</a>
+    </li>
+    <li class="nav-item">
+        <a  class="nav-link" href="#rate"
+            data-toggle="tab">Rate them</a>
+    </li>
+    <li class="nav-item">
+        <a  class="nav-link" href="#contact"
+            data-toggle="tab">Contact info</a>
+    </li>
+</ul>
+
+<!-- Tab panes -->
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane" id="reviews">
+        <div class="d-flex justify-content-center">
+            <div class="content text-center">
+                <div class="ratings"> <span class="product-rating">4.1</span><span>/5</span>
+                    <div class="stars"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> </div>
+                    <div class="rating-text"> <span>46 ratings & 15 reviews</span> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div role="tabpanel" id="rate" class="tab-pane">
+
+    </div>
+    <div role="tabpanel" id="contact" class="tab-pane">
+        <div class="jumbotron">
+            <h3><i class="fa fa-phone"></i> Call us : 9876543211</h3>
+            <h3><i class="fa fa-paper-plane"></i> Email : tasveer@email.com</h3>
+        </div>
+    </div>
+</div>
+
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
 <script src="js/profile_vendor.js"></script>
 </body>
 </html>
