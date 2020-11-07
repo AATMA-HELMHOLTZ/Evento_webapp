@@ -20,8 +20,6 @@
   <component name="ChangeListManager">
     <list default="true" id="13085997-0a06-4e81-8965-2038b8cc283c" name="Default Changelist" comment="Glider responsive 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/profile_vendor.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/profile_vendor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/profile_vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/profile_vendor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profile_vendor.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile_vendor.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +126,8 @@
       <workItem from="1603861051003" duration="12887000" />
       <workItem from="1604131871548" duration="14031000" />
       <workItem from="1604377961649" duration="27386000" />
-      <workItem from="1604554632372" duration="34278000" />
+      <workItem from="1604554632372" duration="35128000" />
+      <workItem from="1604740073856" duration="2569000" />
     </task>
     <task id="LOCAL-00001" summary="responsive carousel">
       <created>1601793452197</created>
