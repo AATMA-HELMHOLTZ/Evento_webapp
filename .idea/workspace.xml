@@ -20,7 +20,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13085997-0a06-4e81-8965-2038b8cc283c" name="Default Changelist" comment="Glider responsive 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile_vendor.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile_vendor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,7 @@
       <workItem from="1604131871548" duration="14031000" />
       <workItem from="1604377961649" duration="27386000" />
       <workItem from="1604554632372" duration="35128000" />
-      <workItem from="1604740073856" duration="2569000" />
+      <workItem from="1604740073856" duration="5576000" />
     </task>
     <task id="LOCAL-00001" summary="responsive carousel">
       <created>1601793452197</created>
