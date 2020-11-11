@@ -19,14 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13085997-0a06-4e81-8965-2038b8cc283c" name="Default Changelist" comment="Glider responsive 2">
-      <change afterPath="$PROJECT_DIR$/css/event_template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/event_template.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile_vendor.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile_vendor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/event_template.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/event_template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/event_template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +129,8 @@
       <workItem from="1604377961649" duration="27386000" />
       <workItem from="1604554632372" duration="35128000" />
       <workItem from="1604740073856" duration="14085000" />
-      <workItem from="1604911869898" duration="21944000" />
+      <workItem from="1604911869898" duration="22737000" />
+      <workItem from="1605094748529" duration="2723000" />
     </task>
     <task id="LOCAL-00001" summary="responsive carousel">
       <created>1601793452197</created>

@@ -24,7 +24,7 @@
 
 <!--NAVBAR-->
 <nav id="mainNavbar" class="navbar navbar-expand-md fixed-top" >
-    <a class="navbar-brand" href="#">EVENTO</a>
+    <a class="navbar-brand" href="#" id="logo"><span class="h1">EVENTO</span></a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navb" aria-expanded="true" style="background-color: #66bfbf">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -34,13 +34,10 @@
                 <a class="nav-link" href="/vendorsign">Register as vendor</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/prev">Previous Successful Events</a>
+                <a class="nav-link" href="/prev">Previous Events</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/support">Support</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/contact">Contact us</a>
             </li>
         </ul>
 
@@ -77,9 +74,29 @@
 </div>
 <!--End of sidebar-->
 
-<button class="btn btn-info btn-lg" id="float_side">
+<button class="btn btn-info btn-lg" id="float_side"  data-toggle="modal" data-target="#exampleModal">
     Contact them all
 </button>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Success</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!--Side scroll-->
 <div data-spy="scroll" data-target="#navbar-example3" data-offset="0" style="padding-bottom: 30vh">
